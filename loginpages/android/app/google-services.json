@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "201892260220",
+    "firebase_url": "https://loginpages-27b27.firebaseio.com",
+    "project_id": "loginpages-27b27",
+    "storage_bucket": "loginpages-27b27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201892260220:android:b1bbd58fc87b92d1db5cf9",
+        "android_client_info": {
+          "package_name": "com.example.loginpages"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201892260220-bch6q32kuq4t87kaet3t180uh7fjkh7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0G5M8P4hG3pFWaFrqNI3mignEKeDveOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201892260220-bch6q32kuq4t87kaet3t180uh7fjkh7r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

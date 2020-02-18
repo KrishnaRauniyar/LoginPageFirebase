@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "820491025573",
+    "firebase_url": "https://logincoffee-78d83.firebaseio.com",
+    "project_id": "logincoffee-78d83",
+    "storage_bucket": "logincoffee-78d83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820491025573:android:b91e8779638faae84d214c",
+        "android_client_info": {
+          "package_name": "com.example.firebase_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820491025573-ngauen041j2chi0qci926e8tca8iesh5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ3Rd_k9IHsPpCP5GZ8hM_tqs45kTXzNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "820491025573-ngauen041j2chi0qci926e8tca8iesh5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
